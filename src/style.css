@@ -24,6 +24,7 @@
   --dl-size-size-maxwidth: 1400px;
   --dl-color-default-white: rgba(255, 255, 255, 1);
   --dl-radius-radius-round: 50%;
+  --dl-color-default-white1: rgba(255, 255, 255, 1);
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
@@ -35,8 +36,12 @@
   --dl-space-space-threeunits: 48px;
   --dl-color-default-cinefygrey: rgba(58, 58, 58, 1);
   --dl-color-default-cinefyblack: rgba(1, 1, 1, 1);
+  --dl-color-default-cinefygrey1: rgba(58, 58, 58, 1);
   --dl-color-default-cinefywhite: rgba(231, 231, 231, 1);
+  --dl-color-default-cinefyblack1: rgba(1, 1, 1, 1);
+  --dl-color-default-cinefywhite1: rgba(231, 231, 231, 1);
   --dl-color-default-cinefyyellow: rgba(255, 244, 0, 1);
+  --dl-color-default-cinefyyellow1: rgba(255, 244, 0, 1);
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {

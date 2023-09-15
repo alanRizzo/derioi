@@ -1,0 +1,83 @@
+.desktop2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop2-desktop2 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2-frame63 {
+  gap: 10px;
+  top: 233px;
+  left: 672px;
+  width: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.desktop2-group39 {
+  width: 95px;
+  height: 139px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2-text {
+  top: 100px;
+  left: 1px;
+  color: var(--dl-color-default-cinefyblack);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2-group27 {
+  top: 0px;
+  left: 0px;
+  width: 95px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.desktop2-profileiconavatariconusericonpersoniconfreepng1 {
+  top: 17.277740478515625px;
+  left: 82.45282745361328px;
+  width: 66px;
+  height: 62px;
+  position: absolute;
+}
+.desktop2-thumbs-up {
+  top: 13px;
+  left: 17px;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+}
