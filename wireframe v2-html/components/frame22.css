@@ -1,0 +1,30 @@
+.frame22-frame22 {
+  gap: 10px;
+  width: 80px;
+  display: flex;
+  padding: 10px 15px;
+  position: relative;
+  align-self: flex-start;
+  align-items: center;
+  border-radius: 57px;
+  justify-content: center;
+  background-color: var(--dl-color-default-cinefyyellow);
+}
+.frame22-text {
+  color: var(--dl-color-default-cinefyblack);
+  height: auto;
+  font-size: 14px;
+  align-self: flex-start;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame22-root-class-name {
+  left: 137px;
+  bottom: 0px;
+  position: absolute;
+}
